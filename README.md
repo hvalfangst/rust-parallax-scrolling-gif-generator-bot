@@ -19,7 +19,4 @@ Additionally, the GIF generation pipeline may produce totally botched results wh
 
 ![image](images/image_current.png)
 
-**Prompt:** Background for 2d side-scrolling game, which have 4 separate horizontal layers. 
-
-Layer 1 (256px): Distant sky with subtle gradient and faint clouds, using light blues and soft whites to create a far background that recedes seamlessly.  
-Layer 2 (512px): Mid-distant mountains and hills with layered silhouettes in darker blues and greens, adding depth and atmospheric perspective.
+**Prompt:** Background for 2d side-scrolling game, which have 4 separate horizontal layers. Layer 1: The far background features a gradient sky with subtle color transitions, dotted with distant clouds and faint mountain silhouettes to create depth. Layer 2: The mid-distant layer includes rolling hills and sparse trees, rendered with muted colors to emphasize distance. Layer 3: The near background shows detailed foliage, bushes, and small rocks, adding texture and complexity.

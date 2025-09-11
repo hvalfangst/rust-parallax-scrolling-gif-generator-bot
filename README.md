@@ -19,4 +19,6 @@ Additionally, the GIF generation pipeline may produce totally botched results wh
 
 ![image](images/image_current.png)
 
-**Prompt:** Background for 2d side-scrolling game, which have 4 separate horizontal layers. Layer 1: A distant mountain range with subtle peaks and valleys, rendered in shades of 0x001f41 and 0x2f5a78, creating a deep background that recedes into the horizon.
+**Prompt:** Background for 2d side-scrolling game, which have 4 separate horizontal layers. 
+
+Layer 1 (256px): A distant mountain range with smooth, flowing curves in dark blue (0x001f41) and lighter blue accents (0x82c6d6), creating a far background that recedes into the horizon. The mountains are stylized with gentle peaks and valleys, seamlessly repeating.

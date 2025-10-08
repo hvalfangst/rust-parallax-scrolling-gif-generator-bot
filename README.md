@@ -19,4 +19,4 @@ Additionally, the GIF generation pipeline may produce totally botched results wh
 
 ![image](images/image_current.png)
 
-**Prompt:** Background for 2d side-scrolling game, which have 4 separate horizontal layers. Layer 1: (Far background, distant sky with subtle clouds and a faint horizon line, using light blues and muted tones to create depth). Layer 2: (Mid-distant elements like rolling hills or distant mountains with soft contours, using mid-tone blues and greens). Layer 3: (Near background with trees, bushes, and gentle slopes, featuring darker greens and browns for proximity).
+**Prompt:** Background for 2d side-scrolling game, which have 4 separate horizontal layers. Layer 1: The far background features a gradient sky with subtle clouds and distant mountain silhouettes in muted blues and grays, creating depth and atmosphere. Layer 2: The mid-distant layer includes rolling hills and sparse trees with soft, cool tones like 0x82c6d6 and 0x2f5a78, adding a sense of distance.

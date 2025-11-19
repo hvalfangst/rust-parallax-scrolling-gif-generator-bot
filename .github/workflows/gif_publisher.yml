@@ -1,10 +1,8 @@
 name: Parallax Scrolling GIF Generator
 
-# Runs on schedule every morning at 04:00 UTC, which is 06:00 CET time. Manual trigger is also available.
+# Used to run every morning, but is now only manually triggerable.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 4 * * *"
 
 jobs:
   parallax-scrolling-gif-generator:
